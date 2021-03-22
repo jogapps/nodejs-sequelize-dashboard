@@ -1,0 +1,7 @@
+{
+    "project": {
+       "title": "Website Title",
+       "name": "Website Name",
+       "website": "localhost:3000"
+    }
+}
